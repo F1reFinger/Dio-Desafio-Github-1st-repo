@@ -1,0 +1,9 @@
+SHA 1 - secure hash algorithm que criptografa os arquivos para enviar ao git gera 40 digitos de caracteres
+
+objeto blob guarda metadados 
+
+tree armazena blobs é uma arvore de blobs
+
+Commit explica as ultimas modificações 
+
+ls -a mostra arquivos ocultos

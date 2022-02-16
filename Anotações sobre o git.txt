@@ -7,3 +7,7 @@ tree armazena blobs é uma arvore de blobs
 Commit explica as ultimas modificações 
 
 ls -a mostra arquivos ocultos
+
+.gitignore cria um arquivo para o git ignorar quando upar para o repo
+    |
+     ->no arquivo gitignore coloque o nome do "arquivo/caminho" para ignorar 

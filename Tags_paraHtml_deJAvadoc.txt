@@ -1,0 +1,19 @@
+@ author set the author of the code
+
+@deprecated means an obsolete method
+
+@link set an url for any other documentation needed
+
+@param set an param to be passed to a method
+
+@return Describes a return type
+
+@see associates with another class or method 
+
+@since describes since when this class/method was added
+
+@throws describes what kind of exceptions will be thrown 
+
+@version describes the version of the class or method
+
+@

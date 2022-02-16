@@ -1,0 +1,4 @@
+enhanced for
+
+for(String i : items) - pega os itens da variavel "itens" e atribui na variavel string i
+}

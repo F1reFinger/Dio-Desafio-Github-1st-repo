@@ -2,4 +2,6 @@
 
 forçando a maquina a usar versão "X" do java com o jabba "jabba use openjdk@"version""
 
+comando de compilar arquivo no ubuntu "javac -d target/ -sourcepath src/ com/"nomeDoPrograma.java"
+
 comando para pegar os docs do java "javadoc -d javadoc/ -sourcepath src/ -subpackages "diretorio""

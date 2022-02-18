@@ -1,0 +1,6 @@
+cntrl + 3 abre um menu pop up para definir funções automaticas da ide eclipse 
+bem como gerar construtores e destrutores getters e setters
+
+cntrl+ shift +f refatora as tabulações e organiza o code
+
+cntrl + alt + setinha com um metodo selecionado a ide clona o metodo para aquela direção

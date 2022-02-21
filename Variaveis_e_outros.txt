@@ -1,0 +1,23 @@
+variável - conceito -> "é um espaço na memoria onde o se pode guardar valores"
+
+4 tipos:
+
+    instancia: objeto
+    Classe: Classe
+    Local: dentro dos metodos
+    Parâmetro: Na assinatura do metodo
+
+    Visibilidade Modificador tipo_nome ValoInicial
+
+    V: "public", "protected", e "private"
+    M: "static" e "final"
+    T: tipo de dado
+    N: nome que é fornecido a variável
+    VI: valor inicial, caso deseje 
+
+    Tipos de dados
+
+    "São os valores e consequentemente operações que as variaveis podem assumir e sofrer respectivamente"
+
+
+    Downcast obrigatoriamente tem que ser explicito 
